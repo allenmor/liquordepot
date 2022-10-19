@@ -7,6 +7,11 @@ import { useEffect, useState } from 'react'
 
 function App() {
   useEffect(()=>{
+    fetch('https://raw.githubusercontent.com/allenmor/liquordepot/main/inventory.json')
+    .then(res => res.json())
+    .then(data => {
+      console.log(data)
+    })
   },[])
   return (
     <>
