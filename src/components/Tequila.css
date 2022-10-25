@@ -1,6 +1,8 @@
 .tequila-div {
     display: flex;
     border: 2px solid red;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .tequila-image {
@@ -14,8 +16,11 @@
     flex-direction: column;
     align-items: center;
     width: 15rem;
-    border: 2px solid black;
+    border: 1px solid gray;
     height: 35rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+
 }
 
 .tequila-description-div {
@@ -29,6 +34,5 @@
     .each-tequila {
         width: 91%;
         padding: 1rem;
-        margin-bottom: 1rem;
     }
 }
