@@ -28,6 +28,13 @@
                 "price": 49.99,
                 "image": "https://www.marketviewliquor.com/mm5/graphics/00000001/1800REPOSADO175.jpg",
                 "description": "Tequila Reserva 1800 Anejo is 100% de Agave, double distilled, and aged in French oak and American Oak for 6 months. 1800 Reposado is exceptionally smooth with a soft Agave taste."
+            },
+            {
+                "name": "1800 Cristalino Anejo",
+                "ml": "700 ml",
+                "price": 60.99,
+                "image": "https://cdn11.bigcommerce.com/s-a04d0/images/stencil/1280x1280/products/19863/21710/1800-cristalino-anejo-tequila__43021.1661942987.jpg?c=2",
+                "description": "Mexico- Designed to be sipped...it has aromas of vanilla, caramel and toasted wood, followed by flavors of honey, agave, and oak. Filtration has given this tequila an extra-smooth mouthfeel and created a greater balance between the flavors from the agave and those from its oak aging."
             }
         ],
         "whiskey":[
