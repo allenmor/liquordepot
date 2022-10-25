@@ -1,10 +1,37 @@
 .nav-container {
     display: flex;
+    font-size: 1rem;
+    background-color: #182F50;
+    color: white;
+    font-weight: bold;
+    justify-content: space-between;
+    height: 6vh;
+    align-items: center;
+}
+.nav-container p {
+    cursor: pointer;
+}
+
+.nav-container p:hover {
+    color: #9E52F9;
 }
 
 @media(max-width: 500px) {
 
     .nav-container{
         display: flex;
+        font-size: 0.68rem;
+        background-color: #182F50;
+        color: white;
+        font-weight: bold;
+        justify-content: space-between;
+        height: 6vh;
+        align-items: center;
+    }
+    .nav-container p {
+        cursor: pointer;
+    }
+    .nav-container p:hover {
+        color: #9E52F9;
     }
 }
