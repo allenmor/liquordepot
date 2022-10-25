@@ -21,13 +21,20 @@
                 "price": 28.99,
                 "image": "https://applejack.com/site/images/1800-Reposado-Tequila-750-ml_1.png",
                 "description": "Mexico – This moderately full-bodied gold tequila is smooth with butterscotch, vanilla and toasted coconut flavors. The oak barrel aging process allows for a sweet then dry well rounded finish."
+            },
+            {
+                "name": "1800 Tequila Gold",
+                "ml": "1.75 L",
+                "price": 49.99,
+                "image": "https://www.marketviewliquor.com/mm5/graphics/00000001/1800REPOSADO175.jpg",
+                "description": "Tequila Reserva 1800 Anejo is 100% de Agave, double distilled, and aged in French oak and American Oak for 6 months. 1800 Reposado is exceptionally smooth with a soft Agave taste."
             }
         ],
         "whiskey":[
             {
                 "name": "1800 Tequila Blanco",
                 "ml": "750 ml",
-                "price": 28.99,
+                "price": 49.99,
                 "image": "http://cdn.shopify.com/s/files/1/0099/0045/8042/products/Studio_Project-2022-06-22T090733.002_grande.jpg?v=1655914066"
             }
         ]
