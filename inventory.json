@@ -14,6 +14,13 @@
                 "price": 49.99,
                 "image": "https://www.marketviewliquor.com/mm5/graphics/00000001/1800SILVER175.jpg",
                 "description": "Double distilled, a special selection of white tequilas are blended together for added complexity and character. Bright water-white; on the nose there is a distinct smoke and spice aroma with notes of crushed herb and cedar; on the palate 1800 Blanco Tequila is dry with a warming sensation and flavors of sweet cedar, smoke and pear."
+            },
+            {
+                "name": "1800 Tequila Reposado",
+                "ml": "750 ml",
+                "price": 28.99,
+                "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h4c/h09/12343393615902.png",
+                "description": "Mexico –This moderately full-bodied gold tequila is smooth with butterscotch, vanilla and toasted coconut flavors. The oak barrel aging process allows for a sweet then dry well rounded finish."
             }
         ],
         "whiskey":[
