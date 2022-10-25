@@ -35,6 +35,13 @@
                 "price": 60.99,
                 "image": "https://cdn11.bigcommerce.com/s-a04d0/images/stencil/1280x1280/products/19863/21710/1800-cristalino-anejo-tequila__43021.1661942987.jpg?c=2",
                 "description": "Mexico- Designed to be sipped...it has aromas of vanilla, caramel and toasted wood, followed by flavors of honey, agave, and oak. Filtration has given this tequila an extra-smooth mouthfeel and created a greater balance between the flavors from the agave and those from its oak aging."
+            },
+            {
+                "name": "Adictivo Tequila Doble Reposado",
+                "ml": "750 ml",
+                "price": 66.99,
+                "image": "https://www.luekensliquors.com/wp-content/uploads/2022/01/Adictivo-Doble-Reposado-Tequila-2.jpg",
+                "description": "Mexico - Tequila Adictivo Reposado is 100% pure Blue Agave, bright straw color, with a soft and refined taste and aromas of wood and cooked agave Awarded Silver and Bronze Medal 2017 & 2018 San Diego Spirits Festival."
             }
         ],
         "whiskey":[
