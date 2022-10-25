@@ -1,0 +1,32 @@
+.tequila-div {
+    display: flex;
+    border: 2px solid red;
+}
+
+.tequila-image {
+    width: 15rem;
+}
+
+.each-tequila {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15rem;
+    border: 2px solid black;
+    height: 35rem;
+}
+
+.tequila-description-div {
+    overflow-y: scroll;
+}
+
+@media(max-width: 500px) {
+    .tequila-div {
+    flex-direction: column;
+    }
+    .each-tequila {
+        width: 91%;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+}

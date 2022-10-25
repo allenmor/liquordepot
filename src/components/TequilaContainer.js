@@ -1,14 +1,14 @@
 import React from 'react'
 import TequilaCard from './TequilaCard'
+import './Tequila.css'
 import { useState, useEffect } from 'react'
+
 
 function TequilaContainer() {
 
     const [tequila, setTequila] = useState([])
 
     useEffect(()=>{
-
-
             fetch('https://raw.githubusercontent.com/allenmor/liquordepot/main/inventory.json')
             .then(res => res.json())
             .then(data => {
@@ -18,7 +18,7 @@ function TequilaContainer() {
         
       },[])
   return (
-    <div>
+    <div className='tequila-div'>
         {tequila.map((el, i) => {
             return <TequilaCard tequila={el} key={i}/>
         })}
